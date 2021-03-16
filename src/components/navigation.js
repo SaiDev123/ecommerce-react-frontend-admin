@@ -2,7 +2,7 @@ import React from 'react';
 import {NavLink,Route} from 'react-router-dom';
 
 import Login from '../containers/Login';
-import AdminHome from './adminhome';
+import AdminHome from '../containers/adminhome';
 class Navigation extends React.Component{
     render()
 {
